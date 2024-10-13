@@ -1,0 +1,14 @@
+body {
+    background-color: #e0f7fa; 
+}
+
+.container {
+    background-color: #ffffff; 
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+}
+
+.joke {
+    font-size: 1.5em; 
+}
