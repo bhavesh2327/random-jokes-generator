@@ -1,4 +1,4 @@
-Random Jokes Generator
+Random **Jokes **Generator
 A lightweight web application that fetches and displays random jokes with a simple click. The application is built using JavaScript to retrieve jokes from an API and dynamically updates the webpage for a seamless user experience.
 
 Key Features
